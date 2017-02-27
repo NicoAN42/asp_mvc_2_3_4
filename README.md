@@ -8,6 +8,10 @@
 ![image](https://cloud.githubusercontent.com/assets/18629663/22626350/cf371d84-ebdd-11e6-9e96-c0fcbf39d5a4.png)
 ![image](https://cloud.githubusercontent.com/assets/18629663/22626358/f2ad96c6-ebdd-11e6-8b70-369869747665.png)
 ![image](https://cloud.githubusercontent.com/assets/18629663/22626355/e114611a-ebdd-11e6-8963-d0b26e3fd60f.png)
+![image](https://cloud.githubusercontent.com/assets/18629663/23347948/929e8f36-fcd8-11e6-84af-fea04d7d457e.png)
+![image](https://cloud.githubusercontent.com/assets/18629663/23347958/a0c19298-fcd8-11e6-9c22-c014ee8efce5.png)
+![image](https://cloud.githubusercontent.com/assets/18629663/23347960/aa861740-fcd8-11e6-8cd2-acb498bff1f3.png)
+
 
 # Identitas
 <ul>
